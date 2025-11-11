@@ -20,6 +20,8 @@ Aplicación interactiva en Python para visualizar series de Fourier y el fenóme
 
 ### Instalación
 
+0. En una carpeta clone el proyecto de GitHub.
+
 1. Verifica que tengas Python 3.7+ instalado:
    ```bash
    python --version
@@ -79,4 +81,6 @@ Para Beats:
 - Observa el MSE como métrica cuantitativa de la calidad de la aproximación
 - Compara visualmente la aproximación con la señal objetivo
 - Experimenta con diferentes valores de frecuencia en Beats para comprender la relación f_beat = |f₂ - f₁|
-- Valores de N entre 5-20 son suficientes para la mayoría de propósitos educativos
+- Valores de N entre 5-20 son suficientes para la mayoría de propósitos educativos.
+-Para más detalle sobre el fundamento m+atematico chechar el pdf del mismo nombre.
+-Lea el manual de usuario antes de usar.
